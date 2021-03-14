@@ -7,10 +7,10 @@ Follow me on facebook: <a href='https://facebook.com/venomgrills'> Gaurav Chaudh
 Follow me on Twitter: <a href='https://twitter.com/venomgrills'> Venomgrills </a><br>
 
 # Setup
-git clone https://github.com/venomSec-dev/Venom-CORS-Dtect
-cd Venom-CORS-Dtect
-chmod +x *
-./setup.sh
+git clone https://github.com/venomSec-dev/Venom-CORS-Dtect <br>
+cd Venom-CORS-Dtect <br>
+chmod +x * <br>
+./setup.sh <br>
 
 # Run
 python3 venom.py
