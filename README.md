@@ -7,6 +7,7 @@ This tools detect the basic cors using requests library in python by modifying t
 <li>Follow me on facebook: <a href='https://facebook.com/venomgrills'> Gaurav Chaudhary </a><br></li>
   <li>Follow me on Twitter: <a href='https://twitter.com/venomgrills'> Venomgrills </a><br></li>
 </ul>
+
 # Setup
 step1. git clone https://github.com/venomSec-dev/Venom-CORS-Dtect <br>
 step2. cd Venom-CORS-Dtect <br>
