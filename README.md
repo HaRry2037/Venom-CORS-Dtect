@@ -1,5 +1,7 @@
 # Venom-CORS-Dtect
 This tools detect the basic cors using requests library in python by modifying the headers and later helps you to further exploit the same using poc code for the cors exploitation and hosting it on ngrok server which can further fetch the user data or source code from the session created hence stealing the user info like token, emails or other personal information.
+As you can see below in the image this is how it automates all the works.
+<img src="image.png"><img>
 
 <B> Author: Gaurav Chaudhary (Venom) </B><br>
 <ul>
